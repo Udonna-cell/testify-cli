@@ -9,7 +9,7 @@ Testify CLI is a command-line tool designed to streamline the testing process fo
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/testify-cli.git`
+1. Clone the repository: `git clone https://github.com/udonna-cell/testify-cli.git`
 2. Navigate to the project directory: `cd testify-cli`
 3. Install dependencies: `npm install` or `yarn install`
 
