@@ -1,0 +1,9 @@
+# bin/
+# dict/
+# loader.js
+node_modules/
+# package-lock.json
+# package.json
+# shell/
+# src/
+# tsconfig.json
